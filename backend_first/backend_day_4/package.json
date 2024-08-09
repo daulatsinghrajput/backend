@@ -1,0 +1,23 @@
+{
+  "name": "backend_day_4",
+  "version": "1.0.0",
+  "description": "a complete backend file production ready project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daulatsinghrajput/backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend"
+  ],
+  "author": "daulat singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daulatsinghrajput/backend/issues"
+  },
+  "homepage": "https://github.com/daulatsinghrajput/backend#readme"
+}
