@@ -10,3 +10,7 @@ check {git ignore generators}
 create new file enverionment variable file .env
 create new folder src inside root folder
 install utility nodemon (npm i -D nodemon)
+create new folder controllers (for functionality) and for folders 
+mkdir controllers db models routes middlewares utils
+install npm i -D prettier
+create new file 
