@@ -13,4 +13,5 @@ install utility nodemon (npm i -D nodemon)
 create new folder controllers (for functionality) and for folders 
 mkdir controllers db models routes middlewares utils
 install npm i -D prettier
-create new file 
+create new file index.js inside db
+install cookie-parser and cors
